@@ -1,0 +1,26 @@
+h2{
+    color:blueviolet; 
+}
+
+body{
+    background-color: rgb(75, 45, 8);
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+header{
+    border-bottom: 3px solid black;
+}
+
+footer{
+    border-top: 3px solid black;
+}
+
+#nome-usuário{
+    font-weight: bold;
+}
+
+.significado-sigla{
+    font-style: italic;
+}
