@@ -24,3 +24,15 @@ footer{
 .significado-sigla{
     font-style: italic;
 }
+
+img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+.cat {
+    height:300px;
+    width: 300px;
+}
+
+
